@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'WIModelStatus'
-  s.version          = '1.0'
+  s.version          = '1.1'
   s.summary          = 'Custom status view library for iOS projects.'
 
   s.swift_version = '4.0'
