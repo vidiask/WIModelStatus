@@ -22,7 +22,7 @@ pod 'WIModelStatus'
 
 ## Author
 
-Vikas Pandey, vikas.pandey.contractor@bbva.com
+Vikas Pandey
 
 ## License
 
