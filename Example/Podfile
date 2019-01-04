@@ -1,0 +1,6 @@
+use_frameworks!
+target 'WIModelStatus_Tests' do
+  pod 'WIModelStatus', :path => '../'
+  
+  
+end
