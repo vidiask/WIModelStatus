@@ -1,0 +1,16 @@
+PODS:
+  - WIModelStatus (0.1.0)
+
+DEPENDENCIES:
+  - WIModelStatus (from `../`)
+
+EXTERNAL SOURCES:
+  WIModelStatus:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WIModelStatus: cf674f3735f56c36b547b74578c21fdc6783f34d
+
+PODFILE CHECKSUM: e57c2ac53dc3093a8173be409af45d349c8c7c37
+
+COCOAPODS: 1.5.3

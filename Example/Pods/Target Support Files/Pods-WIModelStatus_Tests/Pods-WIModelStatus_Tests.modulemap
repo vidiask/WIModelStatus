@@ -1,0 +1,6 @@
+framework module Pods_WIModelStatus_Tests {
+  umbrella header "Pods-WIModelStatus_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
